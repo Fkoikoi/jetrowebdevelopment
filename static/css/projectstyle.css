@@ -39,7 +39,8 @@ html {
 			/* background-color: #212224; */
 		}
 		#main-header img{
-			max-width: 34px;
+			max-width: 100px;
+			padding-left: 0;
 
 		}
         #main-section{

@@ -23,6 +23,9 @@ header{
     min-height: 100vh;
     box-shadow: var(border-box);
 }
+.navbar{
+    width: 100px;
+}
 .row {
     display: flex;
     align-items: center;
